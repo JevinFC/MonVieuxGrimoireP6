@@ -1,0 +1,6 @@
+[submodule "Backend-P6"]
+	path = Backend-P6
+	url = https://github.com/JevinFC/Backend-P6.git
+[submodule "Frontend-P6"]
+	path = Frontend-P6
+	url = https://github.com/JevinFC/Frontend-P6.git
